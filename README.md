@@ -1,6 +1,6 @@
 # Parallel-SVM-RFE
-A Parallel implementation of the multiple SVM-RFE(http://github.com/johncolby/SVM-RFE)
-just " demo.R" has been changed.
+I implemented a Parallel version of the multiple SVM-RFE(as a part of my Thesis. I used the R implementation of this algorithm by Johncolby (http://github.com/johncolby/SVM-RFE).
+Just " demo.R" has been changed.
 
 #mpi installation
 http://www.stats.uwo.ca/faculty/yu/Rmpi/
